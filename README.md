@@ -35,3 +35,4 @@ X_train and X_test are then fitted and transformed through scikit-learn's tfidve
 ![logistic regression](images\lr_confusion_matrix.png)
 ![MultiNomialNaiveBayes](images\MultinomialNaiveBayes_confusionmatrix.png)
 ![BernouliNaiveBayes](images\BernouliNaiveBayes_confusion_matrix.png)
+
