@@ -32,6 +32,6 @@ X_train and X_test are then fitted and transformed through scikit-learn's tfidve
 ![accuracy_scores](images\results_accuracy.png)
 
 ### Finally, saving some details, a confusion matrix is graphed for each model
-![logistic regression](images/lr_confusion_matrix.png)
-![MultiNomialNaiveBayes](images/MultinomialNaiveBayes_confusionmatrix.png)
+![logistic regression](images\lr_confusion_matrix.png)
+![MultiNomialNaiveBayes](images\MultinomialNaiveBayes_confusionmatrix.png)
 ![BernouliNaiveBayes](images\BernouliNaiveBayes_confusion_matrix.png)
