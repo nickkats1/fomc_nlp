@@ -35,11 +35,6 @@ X_train and X_test are then fitted and transformed through scikit-learn's tfidve
 ![accuracy_scores](images/accuracy.png)
 
 ### Finally, saving some details, a confusion matrix is graphed for each model
-<<<<<<< HEAD
-![logistic regression](images\lr_confusion_matrix.png)
-![MultiNomialNaiveBayes](images\MultinomialNaiveBayes_confusionmatrix.png)
-![BernouliNaiveBayes](images\BernouliNaiveBayes_confusion_matrix.png)
-=======
 ![lr_confusionmatrix](images/lr_confusion_matrix.png)
 ![mnb_confusionmatrix](images/mnb_confusion_matrix.png)
 ![bnb_confusionmatrix](images/bnb_confusion_matrix.png)
@@ -564,15 +559,3 @@ Donald L. Kohn
 Secretary
 
 Minute or Statement: Minute
-```
-
-
-
-
-
-
-
-
-
->>>>>>> edit
-
